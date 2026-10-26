@@ -1,0 +1,15 @@
+# Ignore local tooling, dependencies, and build artifacts
+node_modules/
+dist/
+.vite/
+.DS_Store
+*.log
+
+# Optional: keep editor metadata out of Git
+.vscode/
+.idea/
+
+# Local environment files
+.env
+.env.*
+
